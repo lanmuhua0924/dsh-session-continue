@@ -1,0 +1,4 @@
+# dsh-session-continue bundle patch：只做「把插件挂进来」这一件事。
+- insert:
+    - id: dsh-session-continue
+      name: dsh-session-continue
